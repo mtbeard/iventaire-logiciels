@@ -1,0 +1,24 @@
+# Fichiers générés par le script
+*.csv
+*.html
+
+# Dossiers de sortie locaux
+InventaireLogiciels/
+output/
+exports/
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.log
+
+# VS Code
+.vscode/
+
+# PowerShell
+*.ps1xml
